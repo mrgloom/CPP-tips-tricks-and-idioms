@@ -20,4 +20,7 @@ http://stackoverflow.com/questions/21558/in-c-what-is-a-virtual-base-class
 virtual function
 http://stackoverflow.com/questions/2391679/why-do-we-need-virtual-functions-in-c
 
+inheritance and default constructor
+http://stackoverflow.com/questions/4352169/default-constructor-for-an-inherited-class
+
 ~~~
