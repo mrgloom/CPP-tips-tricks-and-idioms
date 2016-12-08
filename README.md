@@ -1,5 +1,5 @@
 
-C++ tips,tricks,idioms,etc. in stackoverflow questions.
+C++ tips, tricks, idioms, etc. in stackoverflow questions.
 
 ~~~
 private constructor
