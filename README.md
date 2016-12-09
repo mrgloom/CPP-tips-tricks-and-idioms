@@ -23,10 +23,12 @@ http://stackoverflow.com/questions/2391679/why-do-we-need-virtual-functions-in-c
 inheritance and default constructor
 http://stackoverflow.com/questions/4352169/default-constructor-for-an-inherited-class
 
+private destructor
+http://stackoverflow.com/questions/631783/what-is-the-use-of-having-destructor-as-private
+
+---------------------------------------------------------------------------------------------------------------------------------------
 detect unused #include files
 http://stackoverflow.com/questions/74326/how-should-i-detect-unnecessary-include-files-in-a-large-c-project
 http://stackoverflow.com/questions/614794/c-c-detecting-superfluous-includes
 
-private destructor
-http://stackoverflow.com/questions/631783/what-is-the-use-of-having-destructor-as-private
 ~~~
