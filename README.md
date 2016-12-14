@@ -26,6 +26,8 @@ http://stackoverflow.com/questions/4352169/default-constructor-for-an-inherited-
 private destructor
 http://stackoverflow.com/questions/631783/what-is-the-use-of-having-destructor-as-private
 
+decorator pattern
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 detect unused #include files
 http://stackoverflow.com/questions/74326/how-should-i-detect-unnecessary-include-files-in-a-large-c-project
