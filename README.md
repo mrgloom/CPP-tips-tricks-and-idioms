@@ -4,10 +4,7 @@ C++ tips, tricks, idioms, etc. in stackoverflow questions.
 ~~~
 private constructor
 
-singleton pattern
-
 swap trick
-
 
 prevent class inheritance
 http://stackoverflow.com/questions/2184133/prevent-class-inheritance-in-c
@@ -25,12 +22,19 @@ http://stackoverflow.com/questions/4352169/default-constructor-for-an-inherited-
 
 private destructor
 http://stackoverflow.com/questions/631783/what-is-the-use-of-having-destructor-as-private
+~~~
+
+#Patterns
+~~~
+singleton pattern
 
 decorator pattern
 
 factory pattern
+~~~
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+~~~
 detect unused #include files
 http://stackoverflow.com/questions/74326/how-should-i-detect-unnecessary-include-files-in-a-large-c-project
 http://stackoverflow.com/questions/614794/c-c-detecting-superfluous-includes
