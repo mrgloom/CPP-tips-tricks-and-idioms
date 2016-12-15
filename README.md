@@ -28,6 +28,8 @@ http://stackoverflow.com/questions/631783/what-is-the-use-of-having-destructor-a
 
 decorator pattern
 
+factory pattern
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 detect unused #include files
 http://stackoverflow.com/questions/74326/how-should-i-detect-unnecessary-include-files-in-a-large-c-project
