@@ -1,5 +1,24 @@
 
-C++ tips, tricks, idioms, etc. in stackoverflow questions.
+C++ tips, tricks, question, idioms, etc.
+
+
+C++ FAQS
+~~~
+Herb Sutter gotw
+https://herbsutter.com/gotw/
+
+Bjarne Stroustrup
+http://www.stroustrup.com/bs_faq.html
+http://www.stroustrup.com/C++11FAQ.html
+
+https://isocpp.org/faq
+
+~~~
+
+Books
+~~~
+http://www.aristeia.com/books.html
+~~~
 
 ~~~
 private constructor
@@ -22,6 +41,9 @@ http://stackoverflow.com/questions/4352169/default-constructor-for-an-inherited-
 
 private destructor
 http://stackoverflow.com/questions/631783/what-is-the-use-of-having-destructor-as-private
+
+operator overloading outside class
+https://stackoverflow.com/questions/2425906/operator-overloading-outside-class
 ~~~
 
 #Patterns
