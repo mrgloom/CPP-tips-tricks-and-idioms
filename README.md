@@ -62,3 +62,8 @@ http://stackoverflow.com/questions/74326/how-should-i-detect-unnecessary-include
 http://stackoverflow.com/questions/614794/c-c-detecting-superfluous-includes
 
 ~~~
+
+Interview questions:
+~~~
+https://github.com/Hawstein/cracking-the-coding-interview
+~~~
