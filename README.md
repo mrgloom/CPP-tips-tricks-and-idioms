@@ -67,3 +67,8 @@ Interview questions:
 ~~~
 https://github.com/Hawstein/cracking-the-coding-interview
 ~~~
+
+Algorithms:
+~~~
+https://github.com/gzc/CLRS
+~~~
