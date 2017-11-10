@@ -27,6 +27,7 @@ private constructor
 swap trick
 
 move semantics
+https://stackoverflow.com/questions/3106110/what-are-move-semantics
 
 prevent class inheritance
 http://stackoverflow.com/questions/2184133/prevent-class-inheritance-in-c
