@@ -15,15 +15,18 @@ https://isocpp.org/faq
 
 ~~~
 
-Books
+Books:
 ~~~
 http://www.aristeia.com/books.html
 ~~~
 
+Some topics:
 ~~~
 private constructor
 
 swap trick
+
+move semantics
 
 prevent class inheritance
 http://stackoverflow.com/questions/2184133/prevent-class-inheritance-in-c
