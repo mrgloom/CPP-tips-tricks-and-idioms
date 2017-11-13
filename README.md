@@ -54,7 +54,7 @@ volatile keyword
 mutable keyword
 ~~~
 
-#Patterns
+Patterns
 ~~~
 singleton pattern
 
@@ -63,12 +63,10 @@ decorator pattern
 factory pattern
 ~~~
 
----------------------------------------------------------------------------------------------------------------------------------------
 ~~~
 detect unused #include files
 http://stackoverflow.com/questions/74326/how-should-i-detect-unnecessary-include-files-in-a-large-c-project
 http://stackoverflow.com/questions/614794/c-c-detecting-superfluous-includes
-
 ~~~
 
 Interview questions:
