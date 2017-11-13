@@ -48,6 +48,10 @@ http://stackoverflow.com/questions/631783/what-is-the-use-of-having-destructor-a
 
 operator overloading outside class
 https://stackoverflow.com/questions/2425906/operator-overloading-outside-class
+
+volatile keyword
+
+mutable keyword
 ~~~
 
 #Patterns
