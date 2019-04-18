@@ -82,4 +82,5 @@ https://github.com/gzc/CLRS
 TO look at:
 ~~~
 https://github.com/Mooophy/Cpp-Primer
+https://graphics.stanford.edu/~seander/bithacks.html
 ~~~
